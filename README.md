@@ -36,7 +36,7 @@ I took a few small-sized projects working with solo entrepreneurs, helping them 
 **March 2020** 😷 \
 We had a strict lockdown for months that caught me between jobs. \
 I created my first (corporative) site in 2003 or so, using Dreamweaver. A static site, working as a catalogue, while I was in international trade.\
-I'm pretty sure I was the only applicant who had a site to show her CV at that time.\
+I'm pretty sure I was the only applicant who had a site to show her CV at that time.
 
 After a long, long break I thought it was time to focus on code, once and for all. \
 As a self-taught person who had learnt some human languages on her own, I thought I could do the same with code.  Moreover, considering all the available stuff on the internet.
