@@ -23,7 +23,7 @@ Thanks for visiting!
   - Swedish:  B2 (Probably, one of my favourite travelling destinations in the world) 
   - Italian:  B1+ 
 
-# Switching careers. Where I started, and where I am heading to. 
+### Switching careers. Where I started, and where I am heading to. 
 
 
 After quite a long working experience in other fields (mainly import, export and logistics), I decided to switch to digital businesses from traditional, brick-and-mortar companies.  \
