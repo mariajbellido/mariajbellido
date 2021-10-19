@@ -16,12 +16,12 @@ Thanks for visiting!
   - LinkedIn: https://www.linkedin.com/in/mariajbellido/ 
   - Telegram: https://t.me/mariajbellido
 
-🗣 Before code, I enjoyed learning languages... human languages.  As we speak, my skills are as follows: \
-  - Spanish:  Native language. \
-  - English:  C1+  \
-  - French:   C1   \
-  - Swedish:  B2 (Probably, one of my favourite travelling destinations in the world) \
-  - Italian:  B1+ \
+🗣 Before code, I enjoyed learning languages... human languages.  As we speak, my skills are as follows: 
+  - Spanish:  Native language. 
+  - English:  C1+  
+  - French:   C1   
+  - Swedish:  B2 (Probably, one of my favourite travelling destinations in the world) 
+  - Italian:  B1+ 
 
 # Switching careers. Where I started, and where I am heading to. 
 
