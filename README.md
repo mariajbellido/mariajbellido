@@ -26,8 +26,8 @@ Thanks for visiting!
 ### Switching careers. Where I started, and where I am heading to. 
 
 
-After quite a long working experience in other fields (mainly import, export and logistics), I decided to switch to digital businesses from traditional, brick-and-mortar companies.  \
-For different reasons, it took a while until I got 100% involved with a native digital brand in its infancy.   I had the outstanding opportunity to build something great with its owner, until Brexit, and some other factors, make the project difficult to sustain eventually.
+After quite a long working experience in other fields (mainly as an import, export and logistics manager), I decided to switch to digital businesses from traditional, brick-and-mortar companies.  \
+For different reasons, it took a while until I got 100% involved with a native digital brand, that was in its infancy at that moment.   I had the outstanding opportunity to build something great with its owner, until Brexit, and some other factors, made the project difficult to sustain.
 
 It took a while to transfer the local little company that supported the main activity, so I decided to take a short break to strengthen my skills in digital marketing.   I enjoyed technical stuff, while I felt a bit upset about “overexposure” in social media taught in some courses.  
 
@@ -38,10 +38,10 @@ We had a strict lockdown for months that caught me between jobs. \
 I created my first (corporative) site in 2003 or so, using Dreamweaver. A static site, working as a catalogue, while I was in international trade.\
 I'm pretty sure I was the only applicant who had a site to show her CV at that time.
 
-After a long, long break I thought it was time to focus on code, once and for all. \
+After a long, long break after my first corporative site in 2003, I thought it was time to focus on code, once and for all. \
 As a self-taught person who had learnt some human languages on her own, I thought I could do the same with code.  Moreover, considering all the available stuff on the internet.
 
-And the best, it's yet to come. 
+And the best, it's yet to come. I have joined my first IT-related position, and I'm loving it! 
 
 *To be continued* 😁 
 
