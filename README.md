@@ -6,7 +6,8 @@ Thanks for visiting!
 
 🤓 I work with VSC, and online IDEs too. These are links to my projects, some of them might be only course related exercises. \
   ➡️  https://stackblitz.com/@mariajbellido \
-  ➡️  https://replit.com/@mariajbellido
+  ➡️  https://replit.com/@mariajbellido \
+  ➡️  https://codesandbox.io/u/mariajbellido
 
 🌱 I’m currently learning ...
   - Angular 
@@ -15,13 +16,20 @@ Thanks for visiting!
 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/mariajbellido/ 
   - Telegram: https://t.me/mariajbellido
-
-🗣 Before code, I enjoyed learning languages... human languages.  As we speak, my skills are as follows: 
+  - email: mariajbellido (a) gmail dot com || mariajbellido (a) hotmail dot com (Please, reconvert these email addresses accordingly)
+ 
+💬 Ask me about ... \
+  It's probably to soon to give a helping hand with code, but I am happy to help with anything related to my previous working experience. \
+  
+  
+🗣 Before focusing my efforts on code, I enjoyed learning languages... human languages.  As we speak, my skills are as follows: 
   - Spanish:  Native language. 
   - English:  C1+  
   - French:   C1   
   - Swedish:  B2 (Probably, one of my favourite travelling destinations in the world) 
   - Italian:  B1+ 
+
+I keep on improving my foreign language skills, but in a more "relaxed way". I enjoy watching movies, and TV shows in any of the languages I can understand. 
 
 ### Switching careers. Where I started, and where I am heading to. 
 
