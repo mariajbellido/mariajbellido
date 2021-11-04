@@ -5,24 +5,29 @@ Thanks for visiting!
 ### Some quick facts about me: 
 
 🤓 I work with VSC, and online IDEs too. These are links to my projects, some of them might be only course related exercises. \
+
   ➡️  https://stackblitz.com/@mariajbellido \
   ➡️  https://replit.com/@mariajbellido \
   ➡️  https://codesandbox.io/u/mariajbellido
 
 🌱 I’m currently learning ...
+
   - Angular 
   - React & React Native 
 
 📫 How to reach me: 
+
   - LinkedIn: https://www.linkedin.com/in/mariajbellido/ 
   - Telegram: https://t.me/mariajbellido
   - email: mariajbellido (a) gmail dot com || mariajbellido (a) hotmail dot com (Please, reconvert these email addresses accordingly)
  
 💬 Ask me about ... \
+
   It's probably to soon to give a helping hand with code, but I am happy to help with anything related to my previous working experience. \
   
   
 🗣 Before focusing my efforts on code, I enjoyed learning languages... human languages.  As we speak, my skills are as follows: 
+
   - Spanish:  Native language. 
   - English:  C1+  
   - French:   C1   
