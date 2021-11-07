@@ -32,7 +32,7 @@ I'll pin my main projects, so please... keep tuned!
 
 💬 Ask me about ... 
 
-It's probably to soon to give a helping hand with code, but I am happy to help with anything related to my previous working experience. 
+It's probably too soon to give a helping hand with code, but I am happy to help with anything related to my previous working experience. 
 
 
 
