@@ -4,10 +4,10 @@ Thanks for visiting!
 
 ### Some quick facts about me:
 
-🤓 I work with VSC, and online IDEs too. These are links to my projects, some of them might be only course related exercises. \
+🤓 I work with VSC, and online IDEs too. These are links to my projects, some of them might be only course related exercises. 
 
-➡️ https://stackblitz.com/@mariajbellido
-➡️ https://replit.com/@mariajbellido
+➡️ https://stackblitz.com/@mariajbellido \
+➡️ https://replit.com/@mariajbellido \
 ➡️ https://codesandbox.io/u/mariajbellido \
 
 I'll pin my main projects, so please... keep tuned! 
@@ -16,11 +16,28 @@ I'll pin my main projects, so please... keep tuned!
 
 🌱 I’m currently learning ...
 
-- Angular
 
 - React & React Native
+- SSR alternatives (NextJs & Gatsby)
 
-  
+- Headless CMS solutions
+
+- MaterialUI & Tailwind 
+
+- Angular
+
+
+
+🥳 Tools I've worked with, and I am confortable with 
+
+- WordPress / WooCommerce & page builders such as Elementor Pro or Divi 
+- Shopify 
+- GraphCMS, Sanity 
+- Trello, Todoist, Evernote, Notion, Basecamp 
+- Salesforce CMS 
+- Zendesk, FreshDesk and similar tools for customer management 
+- ... 
+
 
 📫 How to reach me:
 
