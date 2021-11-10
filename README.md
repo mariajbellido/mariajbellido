@@ -8,7 +8,7 @@ Thanks for visiting!
 
 ➡️ https://stackblitz.com/@mariajbellido \
 ➡️ https://replit.com/@mariajbellido \
-➡️ https://codesandbox.io/u/mariajbellido \
+➡️ https://codesandbox.io/u/mariajbellido 
 
 I'll pin my main projects, so please... keep tuned! 
 
