@@ -58,7 +58,7 @@ It's probably too soon to give a helping hand with code, but I am happy to help 
 - Spanish: Native language.
 - English: C1+
 - French: C1
-- Swedish: B2 (Probably, one of my favourite travelling destinations in the world)
+- Swedish: B2 (Sweden 🇸🇪 is probably one of my favourite travelling destinations in the world)
 - Italian: B1+
 
 I keep on improving my foreign language skills, but in a more "relaxed way". I enjoy watching movies, and TV shows in any of the languages I can understand.
