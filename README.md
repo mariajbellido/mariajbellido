@@ -14,7 +14,7 @@ I'll pin my main projects, so please... keep tuned!
 
 
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning about: 
 
 
 - React & React Native
