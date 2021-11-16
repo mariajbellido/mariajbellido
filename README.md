@@ -24,7 +24,7 @@ I'll pin my main projects, so please... keep tuned!
 
 - MaterialUI & Tailwind 
 
-- Angular
+- Angular & Angular Material
 
 
 
