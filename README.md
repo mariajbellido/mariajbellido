@@ -8,9 +8,9 @@ Thanks for visiting!
 
 ➡️ https://stackblitz.com/@mariajbellido \
 ➡️ https://replit.com/@mariajbellido \
-➡️ https://codesandbox.io/u/mariajbellido 
 
-I'll pin my main projects, so please... keep tuned! 
+
+I'll pin (some of) my main projects, so please... keep tuned! 
 
 
 
@@ -19,6 +19,7 @@ I'll pin my main projects, so please... keep tuned!
 
 - React & React Native
 - SSR alternatives (NextJs & Gatsby)
+- Svelte
 
 - Headless CMS solutions
 
@@ -59,10 +60,10 @@ It's probably too soon to give a helping hand with code, but I am happy to help 
 - English: C1+
 - French: C1
 - Swedish: B2 (Sweden 🇸🇪 is probably one of my favourite travelling destinations in the world)
-- Italian: B1+
+- Italian: B2
+
 
 I keep on improving my foreign language skills, but in a more "relaxed way". I enjoy watching movies, and TV shows in any of the languages I can understand.
-
 
 
 ### Switching careers. Where I started, and where I am heading to.
