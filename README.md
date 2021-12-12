@@ -88,6 +88,6 @@ Things have changed a lot since that sites I created in 2003-2004. Anyway, I am 
 
 And it's also awesome to see that I have many transferable skills to offer to companies thanks to my previous training and professional experience. 
 
-And the best, it's yet to come. I have recently joined my first IT-related position, and I'm loving it!
+And the best, it's yet to come. I have recently joined a web developer position, and I'm loving it!
 
 *To be continued* 😁
