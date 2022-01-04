@@ -45,6 +45,7 @@ I'll pin (some of) my main projects, so please... keep tuned!
 - LinkedIn: https://www.linkedin.com/in/mariajbellido/
 - Telegram: https://t.me/mariajbellido
 - email: mariajbellido (at) gmail (dot) com || mariajbellido (at) hotmail (dot) com (Please, reconvert these email addresses accordingly)
+- WhatsApp: https://wa.link/mariajbellido
 
 
 
