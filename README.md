@@ -89,6 +89,4 @@ Things have changed a lot since that sites I created in 2003-2004. Anyway, I am 
 
 And it's also awesome to see that I have many transferable skills to offer to companies thanks to my previous training and professional experience. 
 
-And the best, it's yet to come. I have recently joined a web developer position, and I'm loving it!
-
-*To be continued* 😁
+I'm looking for new opportunities, so if my profile caught your attention, please drop a line a say hi 👋
