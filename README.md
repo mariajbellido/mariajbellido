@@ -67,7 +67,7 @@ It's probably too soon to give a helping hand with code, but I am happy to help 
 I keep on improving my foreign language skills, but in a more "relaxed way". I enjoy watching movies, and TV shows in any of the languages I can understand.
 
 
-### Switching careers. Where I started, and where I am heading to.
+### Where I started from - where I am heading to.
 
 After quite a long working experience in other fields (mainly as an import, export and logistics manager), I decided to switch to digital businesses from traditional, brick-and-mortar companies.
 For different reasons, it took a while until I got 100% involved with a native digital brand, that was in its infancy at that moment. I had the outstanding opportunity to build something great with its owner, until Brexit, and some other factors, made the project difficult to sustain.
