@@ -72,7 +72,7 @@ I keep on improving my foreign language skills, but in a more "relaxed way". I e
 After quite a long working experience in other fields (mainly as an import, export and logistics manager), I decided to switch to digital businesses from traditional, brick-and-mortar companies.
 For different reasons, it took a while until I got 100% involved with a native digital brand, that was in its infancy at that moment. I had the outstanding opportunity to build something great with its owner, until Brexit, and some other factors, made the project difficult to sustain.
 
-It took a while to transfer the local little company that supported the main activity, so I decided to take a short break to strengthen my skills in digital marketing. I enjoyed technical stuff, while I felt a bit upset about “overexposure” in social media taught in some courses.
+It took a while to transfer the local little company that supported the main activity, so I decided to take a short break to strengthen my skills in digital marketing. I enjoyed technical stuff, while I felt a bit upset about “overexposure” taught in some social media courses.
 
 I took a few small-sized projects working with solo entrepreneurs, helping them to implement or run their online stores. I worked with CMS such as WordPress/WooCommerce, and Shopify.
 
@@ -89,4 +89,4 @@ Things have changed a lot since that sites I created in 2003-2004. Anyway, I am 
 
 And it's also awesome to see that I have many transferable skills to offer to companies thanks to my previous training and professional experience. 
 
-I'm looking for new opportunities, so if my profile caught your attention, please drop a line a say hi 👋
+I'm looking for new opportunities, so if my profile caught your attention, and you have an open job where my skills match, please drop a line and say hi 👋
