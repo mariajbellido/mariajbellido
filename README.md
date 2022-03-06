@@ -17,16 +17,15 @@ I'll pin (some of) my main projects, so please... keep tuned!
 🌱 I’m currently learning about: 
 
 
-- React & React Native
+- React & React Native in a near future
 - SSR alternatives (NextJs & Gatsby)
 - Svelte
 
 - Headless CMS solutions
 
-- MaterialUI & Tailwind 
+- Tailwind 
 
-- Angular & Angular Material
-- No-code tools and automation.  I think no-code skills + code = 🚀
+- No-code tools (Bubble/Webflow) and automation (Airtable, Zapier).  I think no-code skills + code = 🚀
 
 
 
