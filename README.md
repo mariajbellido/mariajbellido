@@ -21,7 +21,7 @@ I'll pin (some of) my main projects, so please... keep tuned!
 - SSR alternatives (NextJs & Gatsby)
 - Svelte
 
-- Express, Nest.js
+- Express (+ Nest.js in a near future)
 - Headless CMS solutions / Jamstack 
 
 - Tailwind 
