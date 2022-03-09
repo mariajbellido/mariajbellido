@@ -17,11 +17,12 @@ I'll pin (some of) my main projects, so please... keep tuned!
 🌱 I’m currently learning about: 
 
 
-- React & React Native in a near future
+- React (+ React Native in a near future)
 - SSR alternatives (NextJs & Gatsby)
 - Svelte
 
-- Headless CMS solutions
+- Express, Nest.js
+- Headless CMS solutions / Jamstack 
 
 - Tailwind 
 
@@ -29,15 +30,16 @@ I'll pin (some of) my main projects, so please... keep tuned!
 
 
 
-🥳 Tools I've worked with, and I am confortable with 
+🥳 Tools & Software I've worked with: 
 
 - WordPress / WooCommerce & page builders such as Elementor Pro or Divi 
 - Shopify 
-- GraphCMS, Sanity 
-- Trello, Todoist, Evernote, Notion, Basecamp 
-- Salesforce CMS 
-- Zendesk, FreshDesk and similar tools for customer management 
-- ... 
+- GraphCMS, Sanity, Contentful
+- Trello, Todoist, Evernote, Notion, Basecamp, Jira (Project management)
+- Salesforce CMS and other CMS for Gmail
+- Zendesk, FreshDesk and similar tools for ticketing 
+- Postman, MongoDB, Insomnia REST Client ...
+- ...
 
 
 📫 How to reach me:
