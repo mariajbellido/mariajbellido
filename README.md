@@ -29,7 +29,8 @@ I'll pin (some of) my main projects, so please... keep tuned!
 
 - No-code tools (Bubble/Webflow) and automation (Airtable, Zapier).  I think no-code skills + code = 🚀
 
-
+https://platzi.com/p/mariajbellido/
+https://www.linkedin.com/in/mariajbellido/
 
 🥳 Tools & Software I've worked with: 
 
