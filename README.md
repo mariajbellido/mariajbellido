@@ -17,45 +17,35 @@ I'll pin (some of) my main projects, so please... keep tuned!
 
 🌱 I’m currently learning about: 
 
+- JS / Dart / Flutter 
+- No-code tools (Bubble/Webflow/Flutterflow/Supabase) and automation tools. 
 
-- React (+ React Native in a near future)
-- SSR alternatives (NextJs & Gatsby)
-- Svelte
-
-- Express (+ Nest.js in a near future)
-- Headless CMS solutions / Jamstack 
-
-- Tailwind 
-
-- No-code tools (Bubble/Webflow) and automation (Airtable, Zapier).  I think no-code skills + code = 🚀
 
 ➡️ https://platzi.com/p/mariajbellido/ \
 ➡️ https://www.linkedin.com/in/mariajbellido/
 
 🥳 Tools & Software I've worked with: 
 
+- Bubble.io 
 - WordPress / WooCommerce & page builders such as Elementor Pro or Divi 
 - Shopify 
-- GraphCMS, Sanity, Contentful
 - Trello, Todoist, Evernote, Notion, Basecamp, Jira (Project management)
 - Salesforce CMS and other CMS for Gmail
 - Zendesk, FreshDesk and similar tools for ticketing 
 - Postman, MongoDB, Insomnia REST Client ...
-- ...
 
 
 📫 How to reach me:
 
 - LinkedIn: https://www.linkedin.com/in/mariajbellido/
 - Telegram: https://t.me/mariajbellido
-- email: mariajbellido (at) gmail (dot) com || mariajbellido (at) hotmail (dot) com (Please, reconvert these email addresses accordingly)
+- email: mariajbellido (at) gmail (dot) com || (Please, reconvert these email addresses accordingly)
 
 
 
 💬 Ask me about ... 
 
 It's probably too soon to give a helping hand with code, but I am happy to help with anything related to my previous working experience. 
-
 
 
 🗣 Before focusing my efforts on code, I enjoyed learning languages... human languages. As we speak, my skills are as follows:
@@ -90,6 +80,8 @@ After a long, long break after my first corporative site in 2003, I thought it w
 As a self-taught person who had learnt some human languages on her own, I thought I could do the same with code. Moreover, considering all the available stuff on the internet.
 
 Surprisingly, code lead me to an awesome new world I wasn't aware about: no-code, low-code apps.  I quickly felt for Bubble.io, and Platzi gave me the opportunity to participate in one of the bootcamps the tool arranged.   Then, I invested some resources on a Professional training that helped me to broaden my horizons and learn some advanced concepts in depth. 
+
+### **Present time**
 
 It has taken a while, but I have found my first opportunity as a no-code developer, that I hope open me doors to other cooperation opportunities. 
 
