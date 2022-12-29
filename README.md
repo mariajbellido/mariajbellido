@@ -49,7 +49,6 @@ I'll pin (some of) my main projects, so please... keep tuned!
 - LinkedIn: https://www.linkedin.com/in/mariajbellido/
 - Telegram: https://t.me/mariajbellido
 - email: mariajbellido (at) gmail (dot) com || mariajbellido (at) hotmail (dot) com (Please, reconvert these email addresses accordingly)
-- WhatsApp: https://wa.link/mariajbellido
 
 
 
@@ -73,12 +72,13 @@ I keep on improving my foreign language skills, but in a more "relaxed way". I e
 
 ### Where I started from - where I am heading to.
 
-After quite a long working experience in other fields (mainly as an import, export and logistics manager), I decided to switch to digital businesses from traditional, brick-and-mortar companies.
-For different reasons, it took a while until I got 100% involved with a native digital brand, that was in its infancy at that moment. I had the outstanding opportunity to build something great with its owner, until Brexit, and some other factors, made the project difficult to sustain.
+After quite a long working experience in other fields (mainly as an import, export and logistics manager), I decided to switch to digital businesses from traditional, brick-and-mortar companies. Although I enjoyed my positions and going the extra mile, I missed some innovation and digital transformation. I felt everyday was similar to the day before. 
 
-It took a while to transfer the local little company that supported the main activity, so I decided to take a short break to strengthen my skills in digital marketing. I enjoyed technical stuff, while I felt a bit upset about “overexposure” taught in some social media courses.
+For different reasons, it took a while until I got 100% involved with a native digital brand, that was in its infancy at that moment. I had the outstanding opportunity to build something great with its owner, until Brexit, and some other issues, made the project difficult to sustain.
 
-I took a few small-sized projects working with solo entrepreneurs, helping them to implement or run their online stores. I worked with CMS such as WordPress/WooCommerce, and Shopify.
+It took a while to transfer the local little company that supported the main activity, so I decided to take a short break to strengthen my skills in other areas. I enjoyed technical stuff, while I felt a bit upset about “overexposure” taught in some social media courses, so I decided to learn more about on-page SEO that could be applied to my basic dev skills.  I enjoy the technical part of digital marking, while I feel unease with overexposure in social media. 
+
+So, I took a few small-sized projects working with solo entrepreneurs, helping them to implement or run their online stores. I worked with CMS such as WordPress/WooCommerce, and Shopify. 
 
 ### **March 2020** 😷
 
@@ -89,8 +89,10 @@ I'm pretty sure I was the only applicant who had a site to show her CV at that t
 After a long, long break after my first corporative site in 2003, I thought it was time to focus on code, once and for all.
 As a self-taught person who had learnt some human languages on her own, I thought I could do the same with code. Moreover, considering all the available stuff on the internet.
 
-Things have changed a lot since that sites I created in 2003-2004. Anyway, I am pretty excited about everything I learn about everyday. 
+Surprisingly, code lead me to an awesome new world I wasn't aware about: no-code, low-code apps.  I quickly felt for Bubble.io, and Platzi gave me the opportunity to participate in one of the bootcamps the tool arranged.   Then, I invested some resources on a Professional training that helped me to broaden my horizons and learn some advanced concepts in depth. 
 
-And it's also awesome to see that I have many transferable skills to offer to companies thanks to my previous training and professional experience. 
+It has taken a while, but I have found my first opportunity as a no-code developer, that I hope open me doors to other cooperation opportunities. 
 
-I'm looking for new opportunities, so if my profile caught your attention, and you have an open job where my skills match, please drop a line and say hi 👋
+I know code is important, so I keep on learning new concepts everyday (mostly JS and Dart/Flutter).  I love this world, because it allows me to learn something new everyday.  As a very courious person, I feel like fish in water.   
+
+My favourite no-code tools at the moment are: Bubble.io, Webflow and Flutterflow. 
