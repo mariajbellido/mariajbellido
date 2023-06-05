@@ -66,7 +66,7 @@ After quite a long working experience in other fields (mainly as an import, expo
 
 For different reasons, it took a while until I got 100% involved with a native digital brand, that was in its infancy at that moment. I had the outstanding opportunity to build something great with its owner, until Brexit, and some other issues, made the project difficult to sustain.
 
-It took a while to transfer the local little company that supported the main activity, so I decided to take a short break to strengthen my skills in other areas. I enjoyed technical stuff, while I felt a bit upset about “overexposure” taught in some social media courses, so I decided to learn more about on-page SEO that could be applied to my basic dev skills.  I enjoy the technical part of digital marking, while I feel unease with overexposure in social media. 
+It took some months to transfer the local little company that supported the main activity, so I decided to take a short break to strengthen my skills in other areas. I enjoyed technical stuff, while I felt a bit upset about “overexposure” taught in some social media courses, so I decided to learn more about on-page SEO that could be applied to my basic dev skills.  I enjoy the technical part of digital marking, while I feel unease with overexposure in social media. 
 
 So, I took a few small-sized projects working with solo entrepreneurs, helping them to implement or run their online stores. I worked with CMS such as WordPress/WooCommerce, and Shopify. 
 
