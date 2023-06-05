@@ -83,7 +83,7 @@ Surprisingly, code lead me to an awesome new world I wasn't aware about: no-code
 
 ### **Present time**
 
-It has taken a while, but I have found my first opportunity as a no-code developer, that I hope open me doors to other cooperation opportunities. 
+After completing my first no-code related job opportunity, I'm looking forward to joining a new challenge. 
 
 I know code is important, so I keep on learning new concepts everyday (mostly JS and Dart/Flutter).  I love this world, because it allows me to learn something new everyday.  As a very courious person, I feel like fish in water.   
 
