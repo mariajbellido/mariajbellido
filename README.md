@@ -49,7 +49,7 @@ It may be a bit obsolete, as I used it quite a lot when I was learning the found
 - email: mariajbellido (at) gmail (dot) com || (Please, reconvert these email addresses accordingly)
 
 
-🗣 Before focusing my efforts on code, I enjoyed learning languages... human languages. As we speak, my skills are as follows:
+🗣 Before focusing on pivoting to a digital careet, I enjoyed learning (human) languages. As we speak, my skills are as follows:
 
 - Spanish: Native language.
 - English: C1+
@@ -60,9 +60,8 @@ It may be a bit obsolete, as I used it quite a lot when I was learning the found
 
 I keep on improving my foreign language skills, but in a more "relaxed way". I enjoy watching movies, and TV shows in any of the languages I can understand.
 
+Currently, I build AI systems. 
 
 
-I've recently joined an aesthetics clinic where I work with websites, creating them from scratch, improving their SEO, running ads, and so on. 
-On top of this position, I'm always open for new projects, cooperations and synergies. 
 
 
