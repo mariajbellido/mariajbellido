@@ -21,7 +21,7 @@ What I love is how rapidly everything changes.
 
 📫 How to reach me:
 
-- LinkedIn: https://www.linkedin.com/in/mariajbellido/
+- LinkedIn: https://www.linkedin.com/in/mariajbellido/ (if it may not be updated, so any question, please feel free to ask!)
 - Telegram: https://t.me/mariajbellido
 - email: mariajbellido (at) gmail (dot) com || (Please, reconvert these email addresses accordingly)
 
